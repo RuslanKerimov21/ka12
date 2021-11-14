@@ -1,0 +1,25 @@
+
+.page-error{
+    min-height: 540px;
+    padding: 73px 0;
+}
+.error-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.error-info{
+    width: 443px;
+}
+.error-title{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 22px;
+}
+.error-descr{
+    font-size: 18px;
+}
+.error-info .button{
+    margin-top: 43px;
+    padding: 18px;
+}
